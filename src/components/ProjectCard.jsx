@@ -9,7 +9,8 @@ function ProjectCard({ title, githublink, description, tech }) {
     rel="noreferrer"
     className="hover:text-blue-600 underline"
   >
-    GitHub
+     View Project →
+
   </a>
 </p>
 
