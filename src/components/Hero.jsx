@@ -15,7 +15,7 @@ function Hero() {
 
           <p className="mt-4 text-gray-600 text-base sm:text-lg">
             Front-End Developer building responsive and user-friendly web
-            applications with React.
+            applications.
           </p>
 
           <div className="mt-6 flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
