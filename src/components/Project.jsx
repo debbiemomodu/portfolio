@@ -60,7 +60,7 @@
         <div className="text-center mt-10">
           <button
             onClick={handleToggle}
-            className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-gray-800 transition"
+            className="px-6 py-3 bg-blue-600 text-white rounded-lg "
           >
             {visibleCount >= projects.length ? "See Less" : "See More"}
           </button>
